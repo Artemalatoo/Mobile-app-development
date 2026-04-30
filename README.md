@@ -67,6 +67,6 @@ This project was created for the **Mobile Application Development Course** to pr
 * Mobile app architecture
 
 ## Author
+Artem
 
-Brian
 # Mobile-app-development
